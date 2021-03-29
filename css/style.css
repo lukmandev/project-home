@@ -32,6 +32,7 @@ header .wrapper{
 	justify-content: space-between;
 	align-items: center;
 	position: relative;
+	background: black;
 }
 .header__logo{
 	width: 18rem;
